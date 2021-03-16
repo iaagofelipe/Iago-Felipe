@@ -28,5 +28,5 @@ I am FullStack Developer.
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-[![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaagofelipe&show_icons=true&theme=tokyonight)
+![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaagofelipe&show_icons=true&theme=tokyonight)
 ![Top use Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iaagofelipe&show_icons=true&theme=tokyonight)
