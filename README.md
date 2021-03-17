@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Iago Silva</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-I am a FullStack Developer.
+I'm a FullStack Developer.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iago-silva-4143a2196/?trk=public-profile-join-page)
 
