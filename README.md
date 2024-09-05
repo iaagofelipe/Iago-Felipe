@@ -8,7 +8,7 @@ I'm a FullStack Developer.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iago-silva-4143a2196/?trk=public-profile-join-page)
 
 - 📚 I'm a software analyst.
-- 🔭 I currently work with ** web software developmentembedded using Java, Angular, Node**.
+- 🔭 I currently work with **Web Software Development using Java and Angular**.
 - 🌱 I’m currently learning **NodeJS**.
 - 📫 How to reach me **iaagofelipe@gmail.com**
 
